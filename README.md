@@ -5,6 +5,7 @@ Arkanoid written in JAVA
 ##Design Objectives
 
 * Written in JAVA
+* Utilises JAVA swing and JPanel.
 
 ##Documentation
-* JAVA doc in java class in comments
+* JAVA doc in .java files in comments
